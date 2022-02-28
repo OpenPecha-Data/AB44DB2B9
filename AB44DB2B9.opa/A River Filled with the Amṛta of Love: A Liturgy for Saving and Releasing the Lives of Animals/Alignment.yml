@@ -1,0 +1,19 @@
+segment_sources:
+  P34C4E1BA:
+    type: origin_type
+    relation: translation
+    language: en
+  P72E45B21:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  36ca0a7039874dc2bf2c4102b678efb8:
+    P34C4E1BA: 97914536f28946aa814213d9f0dd86de
+    P72E45B21: c1c3b549e86e4642af807db713642644
+  3da9f769283e406bb04e89357fd1c341:
+    P34C4E1BA: 6704b7f1a13246ec9068d158230ff539
+    P72E45B21: 43979cdff95348eea64cc8e50cf3a7ea
+  590d30258f4e46c5a6bee3eada394be8:
+    P34C4E1BA: 99eee8807a0a4b69ba03b7a9d144f9e6
+    P72E45B21: 2c73dccc61d54539bc2963d9be2e0494
